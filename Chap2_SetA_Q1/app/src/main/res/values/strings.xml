@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chap2_SetA_Q1</string>
+    <string name="text_view">ActivityLife_Cycle!!!</string>
+    <string name="button_text1">Click_ME!</string>
+    <string name="button_text3">Destory</string>
+    <string name="button_text2">Exit</string>
+</resources>
