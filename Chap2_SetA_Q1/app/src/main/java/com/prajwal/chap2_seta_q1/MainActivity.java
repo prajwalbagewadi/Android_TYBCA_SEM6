@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
     }
     @Override
     protected void onRestart(){
-        //onDestroy: Called before the Activity is destroyed.
+        //onRestart: Called after the Activity is stopped and then started again
         super.onRestart();
         Log.d(TAG,"onRestart() called");
         Toast.makeText(MainActivity.this,"onRestart active",Toast.LENGTH_SHORT).show();
